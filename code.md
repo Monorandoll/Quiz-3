@@ -1,3 +1,4 @@
+```
 section .text
         global _start
 
@@ -23,6 +24,6 @@ section .data
 var1 dd 5
 section .bss
 result resw 1
-
+```
 
 
