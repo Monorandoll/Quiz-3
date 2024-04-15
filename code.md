@@ -20,7 +20,7 @@ exit:
 
 
 section .data
-var1 dd 4
+var1 dd 5
 section .bss
 result resw 1
 
